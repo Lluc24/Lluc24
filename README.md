@@ -1,12 +1,18 @@
 # Lluc Santamaria
 
-**Computer Science Student | Software Engineer | Builder & Deployer**
+**Balsells Research Fellow at UCI 🇺🇸 | Computer Science Student at FIB-UPC 🇪🇸**
 
-I'm a hacker who builds and ships fast. I specialize in creating practical solutions across the full stack—from AI and machine learning to web applications and language interpreters.
+I'm a hacker who builds and ships fast. I specialize in creating practical solutions across the full stack—from compiler research and type theory to AI, blockchain, and web applications.
 
 ---
 
 ## What I Build
+
+**Compiler Research & Type Theory**
+- [divergence](https://github.com/Lluc24/divergence) – Static divergence checking for Scala 3 match types. Implements a termination guarantee algorithm in the [Scala 3 compiler](https://github.com/Lluc24/scala3) ([PR #24661](https://github.com/scala/scala3/pull/24661)), directed by [Martin Odersky](https://github.com/odersky) at EPFL. Will culminate in a Scala Improvement Proposal (SIP). Grade: 6.0/6.0
+
+**Blockchain & Hackathons**
+- [Healix](https://github.com/KianBahia/SUI_Hack) – 🏆 **$1,000 USD prize winner** at the SUI × BSA Hackathon 2025 (Lausanne). A decentralized platform for sharing emotions securely on the Sui blockchain, with on-chain encryption using SEAL and Move smart contracts
 
 **AI & Machine Learning**
 - [multiagent-RL](https://github.com/Lluc24/multiagent-RL) – Multi-agent reinforcement learning with game-theoretic solution concepts
@@ -32,8 +38,8 @@ I'm a hacker who builds and ships fast. I specialize in creating practical solut
 
 ## Tech Stack
 
-**Languages:** Python • Java • Scala • JavaScript • CLIPS • PDDL • TeX  
-**Frameworks:** Django • ANTLR • NumPy  
+**Languages:** Python • Java • Scala 3 • TypeScript • JavaScript • Move • CLIPS • PDDL • TeX  
+**Frameworks:** Django • React (Next.js) • ANTLR • NumPy • Sui/SEAL  
 **Tools:** Git • GitHub Actions • LaTeX
 
 ---
