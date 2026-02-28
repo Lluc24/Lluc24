@@ -1,8 +1,18 @@
 # Lluc Santamaria
 
-**Computer Science Student | Software Engineer | Builder & Deployer**
+**Computer Science Student | Software Engineer | Hacker & Builder**
 
-I'm a hacker who builds and ships fast. I specialize in creating practical solutions across the full stack—from AI and machine learning to web applications and language interpreters.
+I'm a hacker who builds and ships fast. I specialize in creating practical solutions across the full stack—from AI and machine learning to web applications, language interpreters, and blockchain dApps.
+
+---
+
+## Hackathons 🏆
+
+**[Healix](https://github.com/KianBahia/SUI_Hack) – 🥇 $1,000 Prize Winner**  
+Decentralized platform for sharing and tracking personal emotions on the **Sui blockchain**. Private posts are encrypted on-chain using **SEAL**, with allowlist-based access control via Walrus smart contracts. Built with React/Next.js, Move smart contracts, and `@mysten/dapp-kit`.
+
+**[VisualSearch-HackUPC2025](https://github.com/AlexGonzalezFernandez/VisualSearch-HackUPC2025) – Inditex Challenge**  
+Full-stack visual search app for fashion built at **HackUPC 2025**. Users photograph a clothing item and get instant product matches from Zara, Pull&Bear, and other Inditex brands. Built with **Flutter** (mobile) + **FastAPI** (backend) + Inditex Visual Search API.
 
 ---
 
@@ -32,8 +42,9 @@ I'm a hacker who builds and ships fast. I specialize in creating practical solut
 
 ## Tech Stack
 
-**Languages:** Python • Java • Scala • JavaScript • CLIPS • PDDL • TeX  
-**Frameworks:** Django • ANTLR • NumPy  
+**Languages:** Python • Java • Scala • JavaScript • Dart • Move • CLIPS • PDDL • TeX  
+**Frameworks:** Django • FastAPI • Flutter • React/Next.js • ANTLR • NumPy  
+**Blockchain:** Sui • SEAL • Walrus  
 **Tools:** Git • GitHub Actions • LaTeX
 
 ---
