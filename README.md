@@ -35,7 +35,7 @@
 <h1 align="center">Lluc Santamaria Riba</h1>
 
 <p align="center">
-  <b>AI Engineer at <a href="https://www.prosperai.com/">Prosper AI</a></b> (YC, $30M Series A led by a16z)
+  <b>AI Engineer at <a href="https://www.getprosper.ai/">Prosper AI</a></b> (YC, $30M Series A led by a16z)
 </p>
 
 I build voice agents that talk to real people, in real time, and don't fall over. At Prosper that means thousands of healthcare calls a day: sub-second latency budgets, barge-in that actually works, telephony that misbehaves, and an LLM that has to be right the first time because there is a patient on the line.
