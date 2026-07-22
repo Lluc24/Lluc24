@@ -108,7 +108,7 @@ If you're building toward the same future, [email me](mailto:lluc.santa@gmail.co
   &nbsp;&nbsp;
   <a href="mailto:lluc.santa@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gmail-dark.svg"><img src="assets/gmail.svg" alt="Email" height="28"/></picture></a>
   &nbsp;&nbsp;
-  <a href="https://linktr.ee/lluc_santamaria"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linktree-dark.svg"><img src="assets/linktree.svg" alt="Linktree" height="28"/></picture></a>
+  <a href="https://lluc.sh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/website-dark.svg"><img src="assets/website.svg" alt="Website" height="28"/></picture></a>
   &nbsp;&nbsp;
   <a href="https://github.com/Lluc24"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/github-dark.svg"><img src="assets/github.svg" alt="GitHub" height="28"/></picture></a>
 </p>
