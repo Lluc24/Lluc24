@@ -10,10 +10,9 @@
 ● I'll read Lluc's repos and keep only what actually matters.
 
 ● Read(prosper-ai/role.md)
-  ⎿  Incoming AI Engineer @ Prosper AI (YC, $30M Series
-      A, a16z), starting August 2026. Voice AI agents for
-      US healthcare, thousands of calls/day. Reliability,
-      integrations with 80+ EHRs.
+  ⎿  AI Engineer @ Prosper AI (YC, $30M Series A, a16z).
+      Voice AI agents for US healthcare, thousands of
+      calls/day. Reliability, integrations with 80+ EHRs.
 
 ● Read(divergence/README.md)
   ⎿  Divergence check for Scala 3 match types, implemented
@@ -36,10 +35,10 @@
 <h1 align="center">Lluc Santamaria Riba</h1>
 
 <p align="center">
-  <b>Incoming AI Engineer at <a href="https://www.getprosper.ai/">Prosper AI</a></b> (YC, $30M Series A led by a16z)
+  <b>AI Engineer at <a href="https://www.getprosper.ai/">Prosper AI</a></b> (YC, $30M Series A led by a16z)
 </p>
 
-I build voice agents that talk to real people, in real time, and don't fall over. In August I join Prosper, where that means thousands of healthcare calls a day: sub-second latency budgets, barge-in that actually works, telephony that misbehaves, and an LLM that has to be right the first time because there is a patient on the line.
+I build voice agents that talk to real people, in real time, and don't fall over. At Prosper that means thousands of healthcare calls a day: sub-second latency budgets, barge-in that actually works, telephony that misbehaves, and an LLM that has to be right the first time because there is a patient on the line.
 
 Before this I graduated first of ~400 in Informatics Engineering at UPC, spent a semester at UC Irvine as a Balsells Fellow doing cooperative game theory under Vijay Vazirani, and an exchange semester at EPFL. I like problems where the theory is hard and the demo still has to run.
 
