@@ -10,10 +10,9 @@
 ● I'll read Lluc's repos and keep only what actually matters.
 
 ● Read(prosper-ai/role.md)
-  ⎿  AI Engineer @ Prosper AI (YC, $30M Series A, a16z)
-      since August 2026. Voice AI agents for US healthcare,
-      thousands of calls/day. Reliability, integrations
-      with 80+ EHRs.
+  ⎿  AI Engineer @ Prosper AI (YC, $30M Series A, a16z).
+      Voice AI agents for US healthcare, thousands of
+      calls/day. Reliability, integrations with 80+ EHRs.
 
 ● Read(divergence/README.md)
   ⎿  Divergence check for Scala 3 match types, implemented
