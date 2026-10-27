@@ -11,11 +11,11 @@ Before this I graduated first of ~400 in Informatics Engineering at UPC, spent a
 Off the clock: daily calisthenics, running and cycling outdoors, and Stephen King above any other author.
 
 <p align="center">
-  <a href="https://pipecat.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pipecat-dark.svg"><img src="assets/pipecat.svg" alt="Pipecat" height="32"/></picture></a>
+  <a href="https://pipecat.ai/"><img src="assets/pipecat.svg" alt="Pipecat" height="32"/></a>
   &nbsp;
   <a href="https://deepgram.com/"><img src="assets/deepgram.svg" alt="Deepgram" height="32"/></a>
   &nbsp;
-  <a href="https://cartesia.ai/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cartesia-dark.svg"><img src="assets/cartesia.svg" alt="Cartesia" height="32"/></picture></a>
+  <a href="https://cartesia.ai/"><img src="assets/cartesia.svg" alt="Cartesia" height="32"/></a>
   &nbsp;
   <a href="https://www.twilio.com/"><img src="assets/twilio.svg" alt="Twilio" height="32"/></a>
   &nbsp;
@@ -43,7 +43,7 @@ Off the clock: daily calisthenics, running and cycling outdoors, and Stephen Kin
   <a href="https://gittoken.vercel.app/Lluc24">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://gittoken.vercel.app/v1/badges/Lluc24.svg?theme=dark">
-      <img src="https://gittoken.vercel.app/v1/badges/Lluc24.svg?theme=light" alt="Lluc24's GitToken card">
+      <img src="https://gittoken.vercel.app/v1/badges/Lluc24.svg?theme=light" alt="Lluc24's GitToken card" width="360">
     </picture>
   </a>
 </p>
@@ -55,11 +55,7 @@ Off the clock: daily calisthenics, running and cycling outdoors, and Stephen Kin
 Working on voice agents? [Email me](mailto:lluc.santa@gmail.com).
 
 <p align="center">
-  <a href="https://linkedin.com/in/lluc-santamaria/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-dark.svg"><img src="assets/linkedin.svg" alt="LinkedIn" height="28"/></picture></a>
-  &nbsp;&nbsp;
-  <a href="mailto:lluc.santa@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/gmail-dark.svg"><img src="assets/gmail.svg" alt="Email" height="28"/></picture></a>
-  &nbsp;&nbsp;
-  <a href="https://lluc.sh"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/website-dark.svg"><img src="assets/website.svg" alt="Website" height="28"/></picture></a>
+  <a href="https://linkedin.com/in/lluc-santamaria/">LinkedIn</a> · <a href="mailto:lluc.santa@gmail.com">Email</a> · <a href="https://lluc.sh">Website</a>
 </p>
 
 <p align="center"><sub>Barcelona, Spain</sub></p>
